@@ -1,0 +1,1 @@
+import{t as e}from"./status.OJlnn4nD.js";e(),setInterval(e,6e4);

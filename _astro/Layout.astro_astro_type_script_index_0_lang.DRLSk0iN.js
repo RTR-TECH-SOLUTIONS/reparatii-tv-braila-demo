@@ -1,1 +1,0 @@
-import{t as e}from"./status.xyua9GMB.js";e(),setInterval(e,6e4);
